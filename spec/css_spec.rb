@@ -22,7 +22,7 @@ RSpec.describe 'styling' do
     it 'looks like the finished product' do
       # set this to true once your image looks like the solution displayed in the readme!
       my_css_looks_like_the_solution_image = true
-      expect(my_css_looks_like_the_solution_image).to be_truthy
+      expect(my_css_looks_like_the_solution_image).to be_true
     end
   end
 
